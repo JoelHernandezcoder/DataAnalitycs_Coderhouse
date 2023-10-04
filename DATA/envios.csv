@@ -1,0 +1,51 @@
+﻿id_envio;id_venta;aerolinea;costo_envio;fecha_entrega
+1;1;Moore and Swift;2664.91;2023-12-21
+2;2;Berge Group;2169.85;2023-12-21
+3;3;Satterfield Inc;1912.39;2023-12-21
+4;4;Klein-McGlynn;2793.47;2023-12-21
+5;5;Schuppe-Hand;1275.45;2023-12-21
+6;6;Corkery Group;2231.65;2023-12-21
+7;7;Schuppe-Hand;2411.12;2023-12-21
+8;8;Wisoky-Williamson;2825.95;2023-12-21
+9;9;Kunze-Littel;1573.43;2023-12-21
+10;10;Satterfield Inc;1641.01;2023-12-21
+11;11;Mueller and Harber;2986.43;2023-12-21
+12;12;Goodwin Inc;2310.39;2023-12-21
+13;13;Grady;2353.05;2023-12-21
+14;14;Kunze-Littel;2146.46;2023-12-21
+15;15;Berge Group;1417.08;2023-12-21
+16;16;McKenzie-Gulgowski;1215.45;2023-12-21
+17;17;Roberts and Sons;1438.72;2023-12-21
+18;18;Grady;2813.39;2023-12-21
+19;19;Cummerata;2039.27;2023-12-21
+20;20;Willms and Sons;2653.26;2023-12-21
+21;21;Klein-McGlynn;1908.53;2023-12-21
+22;22;Moore and Swift;1369.83;2023-12-21
+23;23;McKenzie-Gulgowski;1221.25;2023-12-21
+24;24;Corkery Group;1630.66;2023-12-21
+25;25;Cummerata;1820.99;2023-12-21
+26;26;Dooley Inc;1998.38;2023-12-21
+27;27;Hammes Inc;2054.73;2023-12-21
+28;28;Satterfield Inc;1824.38;2023-12-21
+29;29;Schuppe-Hand;2650.28;2023-12-21
+30;30;Powlowski;1859.95;2023-12-21
+31;31;McKenzie-Gulgowski;1865.33;2023-12-21
+32;32;McDermott and Kunze;2453.20;2023-12-21
+33;33;Schuppe-Hand;1321.57;2023-12-21
+34;34;Towne;2003.57;2023-12-21
+35;35;McClure;1851.07;2023-12-21
+36;36;Powlowski;2191.43;2023-12-21
+37;37;McClure;1905.49;2023-12-21
+38;38;Wisoky-Williamson;1091.61;2023-12-21
+39;39;Satterfield Inc;1327.30;2023-12-21
+40;40;McClure;2989.09;2023-12-21
+41;41;Moore and Swift;1052.58;2023-12-21
+42;42;Towne;1575.83;2023-12-21
+43;43;Kessler-Kemmer;1515.33;2024-01-21
+44;44;Kessler-Kemmer;1554.19;2024-01-21
+45;45;Cummerata;1759.93;2023-12-21
+46;46;Powlowski;2005.87;2023-12-21
+47;47;Klein-McGlynn;2532.85;2023-12-21
+48;48;McKenzie-Gulgowski;2492.67;2023-12-21
+49;49;Berge Group;2977.91;2023-12-21
+50;50;Towne;1856.75;2023-12-21
