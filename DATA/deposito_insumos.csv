@@ -1,0 +1,31 @@
+﻿id_insumo;nombre_insumo;stock;precio_unitario;proveedor;fecha_ingreso;fecha_vencimiento
+1;Aluminum Zirconium;15.38;220.61;CARDINAL HEALTH;2023-09-20;2024-03-20
+2;Lorazepam;13.13;649.36;American Health Packaging;2023-09-20;2024-03-20
+3;POVIDONE-IODINE;7.79;463.34;McKesson Packaging Services;2023-09-20;2024-03-20
+4;TITANIUM DIOXIDE, ZINC OXIDE;5.58;632.60;REMEDYREPACK INC.;2023-09-20;2024-03-20
+5;THYROID, PORCINE;3.69;378.70;REMEDYREPACK INC.;2023-09-20;2024-03-20
+6;CLORATIDAMINA potasica;11.59;123.23;SALESFORT SA;2023-09-20;2024-03-20
+7;Metformin Hydrochloride;17.58;347.81;MallyGirl, LLC;2023-09-20;2024-03-20
+8;Fluoride;4.49;965.07;McKesson Packaging Services;2023-09-20;2024-03-20
+9;rasagiline mesylate;10.69;659.62;Changzhou Jianze Sanitary;2023-09-20;2024-03-20
+10;Sales Catodicas ;3.01;123.65;La Caleta Argentina;2023-09-20;2024-03-20
+11;Sumatriptan Succinate;9.95;963.90;McKesson;2023-09-20;2024-03-20
+12;OCTINOXATE, OCTISALATE;10.51;423.41;A-S Medication Solutions LLC;2023-09-20;2024-03-20
+13;TRIMETILATOSAMINA SODICA;88.99;245.78;Mister Magoo INC.;2023-09-20;2024-03-20
+14;Ethyl Alcohol;4.27;472.56;McKesson;2023-09-21;2024-03-21
+15;ACIDO TRICLOROMETALICO;62.98;666.23;McDonald and Ferguson SRL;2023-09-21;2024-03-21
+16;Alcohol;17.25;110.01;Physicians Total Care;2023-09-21;2024-03-21
+17;ZINC OXIDE;12.02;168.45;McKesson Packaging Services;2023-09-21;2024-03-21
+18;MORPHINE SULFATE;5.99;774.56;Hospira, Inc.;2023-09-21;2024-03-21
+19;FORMOLALDEIDO TRIFLOURATO;75.84;123.57;Donald TRUMP and Company;2023-09-21;2024-03-21
+20;Clorato diflorico ;14.34;563.77;Kiota Kimushi;2023-09-21;2024-03-21
+21;PERCLORATO MANGANASO;77.22;312.89;Alalbalala Hukmarjlsa;2023-09-21;2024-03-21
+22;Acido Oxalico alcoholico sodico;12.76;564.98;Rahib Alibabal Huskarikg;2023-09-21;2024-03-21
+23;Lamotrigine;8.02;753.10;Clinical Solutions;2023-09-21;2024-03-21
+24;Sodium Fluoride and Hydrofluoric;64.64;745.98;Young Dental Manufacturing Co;2023-09-21;2024-03-21
+25;Metoprolol succinate;8.87;453.27;Evonik Stockhausen, LLC;2023-09-21;2024-03-21
+26;TITANIUM DIOXIDE;56.31;982.38;Laboratoires Clarins S.A.;2023-09-21;2024-03-21
+27;Heparin Sodium;9.56;228.85;Cardinal Health;2023-09-21;2024-03-21
+28;Verapamil Hydrochloride;9.39;928.54;Sandoz Inc;2023-09-21;2024-03-21
+29;Cetylpyridinium Chloride;46.47;876.23;Kimberly-Clark Corporation;2023-09-21;2024-03-21
+30;oxycodone hydrochloride;19.60;987.99;THE KROGER CO;2023-09-21;2024-03-21
