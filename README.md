@@ -10,12 +10,12 @@ https://github.com/JoelHernandezcoder/DataAnalitycs_Coderhouse/tree/35697cfd1f12
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 🥈 Segunda Entrega del Proyecto Final 
 
-----
+https://github.com/JoelHernandezcoder/DataAnalitycs_Coderhouse/blob/8cff476d894d1f017351573b8202e42798ab0f58/Leon_labs_entrega_2.pdf
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 ##  🥉 Tercera Entrega del Proyecto Final 
 
-----
+https://github.com/JoelHernandezcoder/DataAnalitycs_Coderhouse/blob/4ec0241877bac64e2d6c84d91ac1dc0ae452a541/leon_labs.pbix
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 😎 Entrega Final del Proyecto
