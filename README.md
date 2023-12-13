@@ -21,5 +21,8 @@ https://github.com/JoelHernandezcoder/DataAnalitycs_Coderhouse/blob/4ec0241877ba
 ## 😎 Entrega Final del Proyecto
 
 ----
+Tablero:
+https://github.com/JoelHernandezcoder/DataAnalitycs_Coderhouse/blob/207ef4cfca1b1edc1788c4669405e0f4667c2e6c/leon_labs.pbix
+Documentación:
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
