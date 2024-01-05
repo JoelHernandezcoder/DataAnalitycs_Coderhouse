@@ -22,7 +22,7 @@ https://github.com/JoelHernandezcoder/DataAnalitycs_Coderhouse/blob/4ec0241877ba
 
 ----
 Tablero:
-https://github.com/JoelHernandezcoder/DataAnalitycs_Coderhouse/blob/207ef4cfca1b1edc1788c4669405e0f4667c2e6c/leon_labs.pbix
+https://github.com/JoelHernandezcoder/DataAnalitycs_Coderhouse/blob/9b911cce5fcdd078da4d2cf0ea1727f4978aede2/REENTREGA.pbix
 Documentación:
 https://github.com/JoelHernandezcoder/DataAnalitycs_Coderhouse/blob/cf489b9de4fba1993c9dd63aa6f2db4fc0e2ec31/Leon_labs_entrega_final.pdf
 
