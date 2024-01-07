@@ -28,4 +28,4 @@ https://github.com/JoelHernandezcoder/DataAnalitycs_Coderhouse/blob/cf489b9de4fb
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![ScreenShot](/portada.png)
+![ScreenShot](https://github.com/JoelHernandezcoder/DataAnalitycs_Coderhouse/blob/entrega_final/portada.PNG)
