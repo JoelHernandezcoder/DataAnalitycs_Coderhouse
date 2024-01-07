@@ -29,3 +29,9 @@ https://github.com/JoelHernandezcoder/DataAnalitycs_Coderhouse/blob/cf489b9de4fb
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![ScreenShot](https://github.com/JoelHernandezcoder/DataAnalitycs_Coderhouse/blob/entrega_final/portada.PNG)
+
+![ScreenShot](https://github.com/JoelHernandezcoder/DataAnalitycs_Coderhouse/blob/entrega_final/clientes.PNG)
+
+![ScreenShot](https://github.com/JoelHernandezcoder/DataAnalitycs_Coderhouse/blob/entrega_final/ventas.PNG)
+
+![ScreenShot](https://github.com/JoelHernandezcoder/DataAnalitycs_Coderhouse/blob/entrega_final/RRHH.PNG)
